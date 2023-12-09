@@ -6,7 +6,8 @@ My First Repository
 
   Resident Evil is a 2002 horror film starring Milla Jovovich (Alice), Michelle Rodriguez (Rain), and Eric Mabius (Matt). The film was written and directed by Paul W.S. Anderson. It is the first film in the Resident Evil film series. This Resident Evil movie holds a higher-than-average 6.6/10 on IMDb; this is the highest rating in the series.
 
-*SUMMARIES*
+*S U M M A R Y*
+
   The Resident Evil film series is a horror-action franchise loosely based on the popular video game series of the same name. Directed by Paul W.S. Anderson, the movies follow the character Alice, played by Milla Jovovich, as she navigates a world ravaged by a viral outbreak that turns people into zombie-like creatures. The series consists of six main films:
 
 1. Resident Evil (2002): The first film introduces Alice, an amnesiac woman with superhuman abilities, as she tries to escape from an underground research facility operated by the evil Umbrella Corporation. The T-virus, a biological weapon, has escaped, turning people into zombies.
